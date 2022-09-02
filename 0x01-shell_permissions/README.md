@@ -6,4 +6,4 @@
 5. write a script that adds the execute permission to the owner of a file.
 6. write a script that adds execute permission to the owner and group owner.
 7. write a script that adds execution permission to the owner, the group owner and the other users
-8.
+8. write a scriot that sets the permission of a file.
