@@ -28,6 +28,8 @@
 
 14. create a script that change owner and group.
 
-15. create a script with a symbolic link permission
+15. create a script with a symbolic link permission.
+
+16. write a script that changes the owner of a file only if its own by guillaume.
 
 17. write a script that plays Star war.
