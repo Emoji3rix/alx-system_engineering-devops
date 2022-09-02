@@ -1,18 +1,9 @@
-Task 0. script that switches user
-Task 1. script that prints the effective username
-Task 2. script that prints all th group the current user is part of
-Task 3. 
-Task 4.
-Task 5.
-Task 6.
-Task 7. 
-Task 8.
-Task 9.
-Task 10.
-Task 11.
-Task 12.
-Task 13.
-Task 14.
-Task 15.
-Task 16.
-Task 17.
+0. Create a script that switches the current user
+1. write a script that prints the effective username of the current user.
+2. write a script that prints all the groups the current user is part of.
+3. write a script that changes the owner of a file.
+4. write a script that creates an empty file.
+5. write a script that adds the execute permission to the owner of a file.
+6. write a script that adds execute permission to the owner and group owner.
+7. write a script that adds execution permission to the owner, the group owner and the other users
+8.
